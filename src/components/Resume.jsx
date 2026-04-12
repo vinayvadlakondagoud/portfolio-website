@@ -6,8 +6,8 @@ function Resume() {
       <h2>Resume</h2>
 
       <a
-        href="/33903_695657c8.pdf"
-        download="Vinay_Vadlakonda_Resume.pdf"
+        href="/vinay_resume.pdf "
+        download="vinay_resume.pdf"
         className="btn"
       >
         Download Resume
