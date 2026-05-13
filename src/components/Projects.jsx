@@ -7,35 +7,58 @@ function Projects() {
 
       <div className="projects-container">
 
+        {/* Project 1 */}
         <div className="project-card">
-          <h3>Hostel Management System</h3>
+          <h3>🏨 Hostel Management System</h3>
+          <p className="project-desc">
+            A full-stack web application designed to streamline hostel operations 
+            and enhance communication between students and administration.
+          </p>
+
           <ul>
-            <li>Full-stack system to manage student records and hostel operations</li>
-            <li>Includes room allocation, complaint & feedback system</li>
-            <li>Messaging system between students and warden</li>
-            <li>Built using Html & Css, Node.js, and MySQL</li>
+            <li>Efficient room allocation and student record management</li>
+            <li>Complaint & feedback system for issue tracking</li>
+            <li>Real-time messaging between students and warden</li>
+            <li>Secure backend with optimized database queries</li>
           </ul>
+
+          <span className="tech">Tech: HTML, CSS, Node.js, MySQL</span>
         </div>
 
+        {/* Project 2 */}
         <div className="project-card">
-          <h3>Rental Management System</h3>
+          <h3>🏠 Rental Management System</h3>
+          <p className="project-desc">
+            A robust property management platform to handle rental operations, 
+            tenant tracking, and financial records efficiently.
+          </p>
+
           <ul>
-            <li>Web application to manage rental properties and tenants</li>
-            <li>Tracks rent payments, tenant details, and property records</li>
-            <li>Includes authentication and dashboard for management</li>
-            <li>Built using Html & Css, Python Flask (Django), and MySQL</li>
+            <li>Manage tenant details and rental property listings</li>
+            <li>Automated rent tracking and payment monitoring</li>
+            <li>Secure authentication and admin dashboard</li>
+            <li>Clean UI for seamless user experience</li>
           </ul>
+
+          <span className="tech">Tech: HTML, CSS, Flask, MySQL</span>
         </div>
 
+        {/* Project 3 */}
         <div className="project-card">
-          <h3>MoviesWeb</h3>
+          <h3>🎬 MoviesWeb</h3>
+          <p className="project-desc">
+            A modern movie browsing application with dynamic content fetched 
+            from APIs, delivering a smooth and engaging user experience.
+          </p>
+
           <ul>
-            <li>React-based movie browsing application</li>
-            <li>Displays posters, ratings & descriptions using API</li>
-            <li>Modern responsive UI design</li>
-            <li>Optimized for smooth performance</li>
-            <li>Built using React, Node.js, and MongoDB</li>
+            <li>Displays movie posters, ratings, and descriptions via API</li>
+            <li>Responsive UI with fast loading performance</li>
+            <li>Search and explore trending & popular movies</li>
+            <li>Optimized frontend rendering using React</li>
           </ul>
+
+          <span className="tech">Tech: React.js, Node.js, MongoDB</span>
         </div>
 
       </div>

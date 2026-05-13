@@ -4,13 +4,23 @@ function About() {
   return (
     <section id="about" className="section">
       <h2>About Me</h2>
-      <p>
-        I am a passionate and dedicated B.Sc Information Technology undergraduate based in Mumbai, with a strong interest in full-stack web development. 
-        I enjoy building scalable and user-friendly applications using modern technologies like React, Node.js, and MySQL.
-        <br /><br />
-        I have developed real-world projects such as a Hostel Management System and Rental Management System, focusing on solving practical problems and improving user experience.
-        I am always eager to learn new technologies, enhance my skills, and contribute to meaningful software solutions.
-      </p>
+
+      <div className="about-container">
+        <p>
+          I'm a passionate <strong>B.Sc IT student</strong> and aspiring 
+          <strong> Full Stack Developer</strong> based in Mumbai.
+          I specialize in building modern web applications using React, Node.js, and databases.
+        </p>
+
+        <p>
+          I enjoy solving real-world problems through technology and have built 
+          projects like Hostel & Rental Management Systems.
+        </p>
+
+        <p>
+          My goal is to create scalable, efficient, and visually appealing applications.
+        </p>
+      </div>
     </section>
   );
 }
