@@ -106,5 +106,5 @@ To deploy:
 📍 Mumbai, India
 
 * 📧 Email: [thevinayjpp@gmail.com](mailto:thevinayjpp@gmail.com)
-* 💼 LinkedIn: (Add your LinkedIn link)
-* 🐙 GitHub: (Add your GitHub link)
+* 💼 LinkedIn: https://www.linkedin.com/in/vinay-vadlakonda/
+* 🐙 GitHub: https://github.com/vinayvadlakondagoud/
