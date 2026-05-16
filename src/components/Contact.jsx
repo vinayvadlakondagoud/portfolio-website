@@ -49,7 +49,7 @@ function Contact() {
             Feel free to reach out!
           </p>
 
-          <p><strong>Email:</strong> yourmail@gmail.com</p>
+          <p><strong>Email:</strong> thevinayjpp@gmail.com</p>
           <p><strong>Location:</strong> Mumbai, India</p>
         </div>
 
